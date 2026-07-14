@@ -4,19 +4,14 @@ from typing import Optional
 
 @dataclass(slots=True)
 class ShoppingItem:
-    """
-    Repräsentiert einen einzelnen Eintrag aus einer Coocook-Einkaufsliste.
-    """
+    name: str
+    quantity: float
+    unit: str
 
-    artikel: str
-    menge: float
-    einheit: str
+    recipe: str | None = None
+    servings: int | None = None
+    day: str | None = None
+    date: str | None = None
 
-    gericht: Optional[str] = None
-    personen: Optional[int] = None
-    tag: Optional[str] = None
-    datum: Optional[str] = None
-
-    kategorie: Optional[str] = None
-
-    bemerkung: Optional[str] = None
+    category: str | None = None
+    notes: str | None = None

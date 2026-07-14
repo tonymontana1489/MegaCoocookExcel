@@ -1,3 +1,3 @@
-from .models import Einkaufsposten
+from .models import ShoppingItem
 
 __all__ = ["ShoppingItem"]
