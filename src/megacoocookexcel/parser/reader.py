@@ -1,10 +1,15 @@
+from pathlib import Path
 import pdfplumber
 
 
 class PDFReader:
 
-    def read(self, file_path):
+    def read(self, file_path: str):
 
-        with pdfplumber.open(file_path) as pdf:
+        file = Path(file_path)
 
-            return pdf.pages
+        if not file.exists():
+            raise FileNotFoundError(file)
+
+        with pdfplumber.open(file) as pdf:
+            return list(pdf.pages)

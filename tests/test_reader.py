@@ -1,8 +1,11 @@
+import pytest
+
 from megacoocookexcel.parser.reader import PDFReader
 
 
-def test_reader_exists():
+def test_missing_file():
 
     reader = PDFReader()
 
-    assert reader is not None
+    with pytest.raises(FileNotFoundError):
+        reader.read("gibt_es_nicht.pdf")
