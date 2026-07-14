@@ -3,7 +3,7 @@ from typing import Optional
 
 
 @dataclass(slots=True)
-class Einkaufsposten:
+class ShoppingItem:
     """
     Repräsentiert einen einzelnen Eintrag aus einer Coocook-Einkaufsliste.
     """
