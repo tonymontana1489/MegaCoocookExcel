@@ -1,15 +1,21 @@
-class TableExtractor:
+class PdfTableExtractor:
+    """
+    Extracts all tables from every page.
+    """
 
-    def extract(self, pages):
+    def extract(self, pdf):
 
-        tables=[]
+        result = []
 
-        for page in pages:
+        for page_number, page in enumerate(pdf.pages, start=1):
 
-            table=page.extract_table()
+            tables = page.extract_tables()
 
-            if table:
+            result.append(
+                {
+                    "page": page_number,
+                    "tables": tables
+                }
+            )
 
-                tables.append(table)
-
-        return tables
+        return result

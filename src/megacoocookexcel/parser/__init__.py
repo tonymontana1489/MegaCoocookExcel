@@ -1,11 +1,11 @@
 from .reader import PDFReader
-from .extractor import TableExtractor
+from .extractor import PdfTableExtractor
 from .cleaner import TableCleaner
 from .mapper import ShoppingItemMapper
 
 __all__ = [
     "PDFReader",
-    "TableExtractor",
+    "PdfTableExtractor",
     "TableCleaner",
     "ShoppingItemMapper",
 ]
