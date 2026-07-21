@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from datetime import date
+import datetime
 
 
 @dataclass(slots=True)
@@ -25,7 +25,7 @@ class ShoppingItem:
     # Meal planning
     meal: str | None = None
     servings: int | None = None
-    date: date | None = None
+    date: datetime.date | None = None
 
     # Shopping
     category: str | None = None
