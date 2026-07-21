@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import typer
 from rich.console import Console
 
@@ -9,40 +11,64 @@ console = Console()
 
 @app.command()
 def parse(pdf_file: str):
-    """Explore a Coocook PDF."""
+    """
+    Explore a Coocook PDF and create a preview of the extracted tables.
+    """
 
-    console.print("[bold green]🏕 Mega Coocook Excel[/bold green]")
-    console.print()
+    output = []
+
+    output.append("🏕 Mega Coocook Excel")
+    output.append("")
+    output.append(f"📄 Pages found: {pdf_file}")
+    output.append("")
 
     reader = PDFReader()
     pdf = reader.read(pdf_file)
 
-    console.print(f"📄 Pages found: {len(pdf.pages)}")
-    console.print()
+    output.append(f"Pages found: {len(pdf.pages)}")
+    output.append("")
 
     extractor = PdfTableExtractor()
-
     tables = extractor.extract(pdf)
 
-    for page in tables:
+    # Fürs Debuggen erst einmal nur die ersten drei Seiten
+    for page in tables[:3]:
 
-        console.rule(f"Page {page['page']}")
+        output.append("=" * 60)
+        output.append(f"Page {page['page']}")
+        output.append("=" * 60)
 
-        console.print(
-            f"Tables found: {len(page['tables'])}"
-        )
+        if not page["tables"]:
+            output.append("No tables found")
+            output.append("")
+            continue
+
+        output.append(f"Tables found: {len(page['tables'])}")
+        output.append("")
 
         for index, table in enumerate(page["tables"], start=1):
 
-            console.print(
-                f"Table {index}: {len(table)} rows"
-            )
-            
-        if table:
-            console.print("[yellow]Preview:[/yellow]")
+            output.append(f"Table {index}: {len(table)} rows")
 
-            for row in table[:5]:
-                console.print(row)
+            if table:
+                output.append("Preview:")
 
-        console.print()
+                for row in table[:5]:
+                    output.append(str(row))
+
+            output.append("")
+
     pdf.close()
+
+    Path("output").mkdir(exist_ok=True)
+
+    output_file = Path("output/preview.txt")
+
+    with output_file.open("w", encoding="utf-8") as f:
+        f.write("\n".join(output))
+
+    console.print(f"[green]Preview written to {output_file}[/green]")
+
+
+if __name__ == "__main__":
+    app()

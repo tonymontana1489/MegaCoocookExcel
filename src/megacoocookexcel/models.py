@@ -1,17 +1,31 @@
 from dataclasses import dataclass
-from typing import Optional
+from datetime import date
 
 
 @dataclass(slots=True)
 class ShoppingItem:
-    name: str
-    quantity: float
-    unit: str
+    """
+    Represents one occurrence of an article in one meal.
+    """
 
-    recipe: str | None = None
+    # Article
+    article: str
+
+    # Total amount needed for the whole camp
+    total_amount: float
+    total_unit: str
+
+    # Amount required for this specific dish
+    recipe_amount: float
+    recipe_unit: str
+
+    # Dish / Recipe
+    dish: str
+
+    # Meal planning
+    meal: str | None = None
     servings: int | None = None
-    day: str | None = None
-    date: str | None = None
+    date: date | None = None
 
+    # Shopping
     category: str | None = None
-    notes: str | None = None

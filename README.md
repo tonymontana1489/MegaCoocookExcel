@@ -1,20 +1,83 @@
-# Mega Coocook Excel
+# MegaCoocookExcel
 
-Convert Coocook shopping list PDFs into structured and customizable Excel workbooks.
+Mega Coocook Excel helps camps, churches and large group kitchens transform Coocook shopping lists into structured Excel workbooks for easier purchasing and planning.
 
-## Features (planned)
+---
+
+## Features
+
+### Current
 
 - Read Coocook shopping list PDFs
-- Export to Excel
+- Detect tables
+- Extract shopping items
+- Command line interface (CLI)
+
+### Planned
+
+- Excel export
 - Automatic categorization
 - Dashboard
 - Shopping lists by category
 - Shopping lists by day
+- Multi-PDF support
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/<username>/MegaCoocookExcel.git
+cd MegaCoocookExcel
+
+python -m venv .venv
+
+# Windows
+.venv\Scripts\activate
+
+# Linux/macOS
+source .venv/bin/activate
+
+pip install -e .
+```
+
+---
+
+## Usage
+
+```bash
+python -m megacoocookexcel examples/cookook.pdf
+```
+
+---
+
+## Project Structure
+
+```
+src/
+ └── megacoocookexcel/
+     ├── parser/
+     ├── categorizer/
+     ├── exporter/
+     ├── dashboard/
+     └── utils/
+```
+
+---
 
 ## Roadmap
 
-- [ ] PDF parser
+- [x] Basic project structure
+- [x] CLI
+- [x] PDF reading
+- [ ] Shopping item extraction
 - [ ] Excel export
-- [ ] Categories
+- [ ] Categorization
 - [ ] Dashboard
 - [ ] GUI
+
+---
+
+## License
+
+MIT License

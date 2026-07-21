@@ -1,7 +1,30 @@
+# ==========================================================
+# MegaCoocookExcel
+# Projektspezifische Regeln
+# ==========================================================
+
+.vscode/
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+output/*
+!output/.gitkeep
+
+config.local.json
+settings.local.json
+*.local
+
+# ==========================================================
+# Standard Python .gitignore
+# ==========================================================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
