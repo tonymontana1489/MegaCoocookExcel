@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MegaCoocookExcel</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="header">
+<h1>MegaCoocookExcel</h1>
+<p>Projekt öffnen</p>
+</header>
+
+<aside class="sidebar">
+<button class="active">📄 Projekt</button>
+<button disabled>🛒 Artikel</button>
+<button disabled>🏪 Läden</button>
+<button disabled>📂 Kategorien</button>
+<button disabled>📦 Export</button>
+<button disabled>⚙ Einstellungen</button>
+</aside>
+
+<main class="content">
+<section class="card">
+<h2>Projekt öffnen</h2>
+<label class="primary" for="pdfFile">📄 Coocook-PDF auswählen</label>
+<input id="pdfFile" type="file" accept=".pdf" hidden>
+
+<div id="status">
+Bereit.
+</div>
+
+<div class="progress">
+<div id="progressBar"></div>
+</div>
+
+<ul id="steps">
+<li>PDF auswählen</li>
+<li>Parser starten</li>
+<li>Artikel laden</li>
+<li>Dashboard öffnen</li>
+</ul>
+
+<button id="startParser" disabled>Parser starten</button>
+</section>
+</main>
+
+<script src="js/app.js"></script>
+</body>
+</html>

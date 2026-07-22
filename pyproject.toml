@@ -35,7 +35,8 @@ dependencies = [
     "pandas>=2.2",
     "openpyxl>=3.1",
     "rich>=14.0",
-    "typer>=0.16"
+    "typer>=0.16",
+    "pywebview>=5.0"
 ]
 
 [project.optional-dependencies]
@@ -44,5 +45,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<DEIN_GITHUB_NAME>/MegaCoocookExcel"
-Issues = "https://github.com/<DEIN_GITHUB_NAME>/MegaCoocookExcel/issues"
+Homepage = "https://github.com/tonymontana1489/MegaCoocookExcel"
+Issues = "https://github.com/tonymontana1489/MegaCoocookExcel/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+# Aktivieren, sobald src/megacoocookexcel/cli.py existiert.
+# [project.scripts]
+# megacoocookexcel = "megacoocookexcel.cli:app"
