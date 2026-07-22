@@ -1,0 +1,1633 @@
+{
+    "Agavendicksaft": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Flasche / Tube",
+        "category": "",
+        "tags": ""
+    },
+    "Alufolie": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Rolle",
+        "category": "",
+        "tags": ""
+    },
+    "Apfelmus": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Apfelsaft": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Aubergine": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Aufschnitt": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Backkakao": {
+        "shop": "Stef",
+        "unit": "EL",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Backpapier": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Backpulver": {
+        "shop": "Stef",
+        "unit": "TL",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Bacon (Frühstücksspeck)": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Baguette": {
+        "shop": "Lipp",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Balsamico, dunkel": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Balsamico, hell": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Bananen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Basilikum": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Topf",
+        "category": "",
+        "tags": ""
+    },
+    "Basmati-Reis": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Beerenkorb Tk": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Bergkäse": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "gerieben, wenn möglich",
+        "category": "",
+        "tags": ""
+    },
+    "Bio-Zitronen": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Birnen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Bohnen, TK": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Brokkoli": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Brot": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "verschiedene Sorten, auch Körnerbrot",
+        "category": "",
+        "tags": ""
+    },
+    "Brotreste": {
+        "shop": "",
+        "unit": "kg",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Brötchen": {
+        "shop": "Lipp",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Brötchen, trocken": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Brühe mit 2,5 EL Pulver": {
+        "shop": "",
+        "unit": "l, Tasse",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Burgerbrötchen": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Butter": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Buttermilch": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Camembert": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Cayenne-Pfeffer": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Champignons": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Chicken Drumsticks oder Wings": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "je nachdem was billiger ist",
+        "category": "",
+        "tags": ""
+    },
+    "Chili": {
+        "shop": "C&C",
+        "unit": "Pr",
+        "comment": "Gewürzstreuer",
+        "category": "",
+        "tags": ""
+    },
+    "Chocolate Chip Cookies": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Cocktailtomaten": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Currypaste": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "rot oder gelb",
+        "category": "",
+        "tags": ""
+    },
+    "Currypulver": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Datteln": {
+        "shop": "Stef",
+        "unit": "kg",
+        "comment": "dm, ohne Kern, weich",
+        "category": "",
+        "tags": ""
+    },
+    "Dijonsenf": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Eier": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Eis": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "verschiedene Sorten",
+        "category": "",
+        "tags": ""
+    },
+    "Eisbergsalat": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Stück = Kopf",
+        "category": "",
+        "tags": ""
+    },
+    "Emmentaler, gerieben": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Erdnussbutter cremig": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Falafel-Mischung": {
+        "shop": "Stef",
+        "unit": "Pkg",
+        "comment": "dm Bio",
+        "category": "",
+        "tags": ""
+    },
+    "Feta": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Fladenbrot": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Frischkäse Kräuter": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "oder andere saisonale Sorte",
+        "category": "",
+        "tags": ""
+    },
+    "Frischkäse natur": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Fruchtjoghurt": {
+        "shop": "C&C",
+        "unit": "Becher",
+        "comment": "verschiedene Sorten",
+        "category": "",
+        "tags": ""
+    },
+    "Früchtetee": {
+        "shop": "Aldi/Lidl",
+        "unit": "Beutel",
+        "comment": "Teebeutel",
+        "category": "",
+        "tags": ""
+    },
+    "gehackte Tomaten": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "große Dose",
+        "category": "",
+        "tags": ""
+    },
+    "Gemüsebrühe": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "Pulver für die angegebene Menge Flüssigkeit",
+        "category": "",
+        "tags": ""
+    },
+    "Gemüsebrühepulver": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "geriebener Käse": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "getrocknete Tomaten": {
+        "shop": "Stef",
+        "unit": "g",
+        "comment": "dm oder von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Getränke für die Küche": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Getränke für's Fest": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Gewürzgurken": {
+        "shop": "Aldi/Lidl",
+        "unit": "Glas",
+        "comment": "Abtropfgewicht 360g",
+        "category": "",
+        "tags": ""
+    },
+    "Graubrot": {
+        "shop": "Schrot",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Grieß": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "Hartweizengries",
+        "category": "",
+        "tags": ""
+    },
+    "Gulaschfleisch": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Gurken": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Gurkenwasser": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Hackfleisch": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Hackfleisch, Rind": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Haferflocken": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Hafermilch": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Hagebutentee": {
+        "shop": "Aldi/Lidl",
+        "unit": "Beutel",
+        "comment": "Teebeutel",
+        "category": "",
+        "tags": ""
+    },
+    "Haushaltsrollen": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Einzelrollen",
+        "category": "",
+        "tags": ""
+    },
+    "Heidelbeeren, gefroren": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Himbeeren, gefroren": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Himbeersirup": {
+        "shop": "C&C",
+        "unit": "ml",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Honig": {
+        "shop": "",
+        "unit": "kg",
+        "comment": "nicht in die Einkaufsliste aufnehmen, von Tom",
+        "category": "",
+        "tags": ""
+    },
+    "Humus": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Packung",
+        "category": "",
+        "tags": ""
+    },
+    "Hähnchenbrust": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Ingwer": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "am Stück, frisch",
+        "category": "",
+        "tags": ""
+    },
+    "Ingwerreibe": {
+        "shop": "",
+        "unit": "Stk",
+        "comment": "Paddy",
+        "category": "",
+        "tags": ""
+    },
+    "Italienische Kräuter": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "Dose",
+        "category": "",
+        "tags": ""
+    },
+    "Joghurt, laktosefrei": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Joghurt, natur": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Joghurtsoße für Wraps": {
+        "shop": "",
+        "unit": "Stk",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Kabapulver": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kaffee Fairtrade Mild": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kapern": {
+        "shop": "Stef",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kartoffeln": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Ketchup": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "kleine Flasche",
+        "category": "",
+        "tags": ""
+    },
+    "Ketjap Manis": {
+        "shop": "Stef",
+        "unit": "g",
+        "comment": "von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Kichererbsen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kidneybohnen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Knoblauchzehe": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "bitte in Knollen umrechnen/abschätzen",
+        "category": "",
+        "tags": ""
+    },
+    "Knollensellerie": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Knopfspätzle": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kochschinken": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kohlrabi": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kokos-Joghurt": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kokosmilch": {
+        "shop": "Stef",
+        "unit": "l",
+        "comment": "Dose, DM",
+        "category": "",
+        "tags": ""
+    },
+    "Kokosöl": {
+        "shop": "Stef",
+        "unit": "kg",
+        "comment": "Glas, DM",
+        "category": "",
+        "tags": ""
+    },
+    "Kopfsalat": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Stück = Kopf",
+        "category": "",
+        "tags": ""
+    },
+    "Kreuzkümmel": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kräuter": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kräuter der Provence": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Kuvertüre": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Käse": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "in Scheiben",
+        "category": "",
+        "tags": ""
+    },
+    "Käse am Stück": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "z.B. Gouda oder Bergkäse",
+        "category": "",
+        "tags": ""
+    },
+    "Käsereste": {
+        "shop": "",
+        "unit": "kg",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Körnerbrot": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "verschiedene Sorten, auch Vollkornbrot",
+        "category": "",
+        "tags": ""
+    },
+    "Küchenmaschine": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Küchenschürze": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Lorbeerblätter": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Mais": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "Abtropfgewicht",
+        "category": "",
+        "tags": ""
+    },
+    "Mais-Tortilla-Chips": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Tüte",
+        "category": "",
+        "tags": ""
+    },
+    "Maisgries": {
+        "shop": "Stef",
+        "unit": "kg",
+        "comment": "dm, Polenta",
+        "category": "",
+        "tags": ""
+    },
+    "Majoran": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Margarine": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Marmelade": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Marschmallows": {
+        "shop": "C&C",
+        "unit": "Pkg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Mayonnaise": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "kleine Flasche",
+        "category": "",
+        "tags": ""
+    },
+    "Mehl": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Melone": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Messerset": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Milch": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Milch im Tetrapack": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Milch, laktosefrei": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Mineralwasser": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Mozarella": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "125g Packung",
+        "category": "",
+        "tags": ""
+    },
+    "Muskatnuss, gerieben": {
+        "shop": "C&C",
+        "unit": "Pr",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Möhren": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Müsliriegel": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Nektarinen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Nudeln": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Nussnougatcreme": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Nürnberger Rostbratwürste": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "kleine Rostbratwürstchen",
+        "category": "",
+        "tags": ""
+    },
+    "Obstreste": {
+        "shop": "",
+        "unit": "kg",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Oliven": {
+        "shop": "Aldi/Lidl",
+        "unit": "Glas",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Olivenöl": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Paprika": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Paprikapulver": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Parmesan": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Penne": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Perlzwiebeln": {
+        "shop": "Aldi/Lidl",
+        "unit": "Glas",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Pesto, grün": {
+        "shop": "Stef",
+        "unit": "Glas",
+        "comment": "dm, ohne Zwiebeln, ohne Mandeln, ohne Käse",
+        "category": "",
+        "tags": ""
+    },
+    "Petersilie": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Einzelbund ;-), alle hacken und eingefrieren",
+        "category": "",
+        "tags": ""
+    },
+    "Pfeffer": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Pfefferminztee": {
+        "shop": "Aldi/Lidl",
+        "unit": "Beutel",
+        "comment": "Teebeutel",
+        "category": "",
+        "tags": ""
+    },
+    "Pfirsich": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Abtropfgewicht ca. 470g",
+        "category": "",
+        "tags": ""
+    },
+    "Puddingpulver Schoko": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "einzelne Tüte (meist im 3x, 5x oder 10x Pack)",
+        "category": "",
+        "tags": ""
+    },
+    "Puddingpulver Vanille": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "einzelne Tüte (meist im 3x, 5x oder 10x Pack)",
+        "category": "",
+        "tags": ""
+    },
+    "Puderzucker": {
+        "shop": "Aldi/Lidl",
+        "unit": "Pkg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "pürierte Tomaten": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "notfalls durch Dose mit ganzen Tomaten\nersetzbar",
+        "category": "",
+        "tags": ""
+    },
+    "Quark": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Radieschen": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Rauchsalz": {
+        "shop": "Stef",
+        "unit": "g",
+        "comment": "von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Reispapier": {
+        "shop": "Stef",
+        "unit": "Scheibe",
+        "comment": "von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Rindfleisch": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Rohpolnische": {
+        "shop": "Edeka",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Rosenkohl": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "Tiekühl",
+        "category": "",
+        "tags": ""
+    },
+    "Rote Beete": {
+        "shop": "Aldi/Lidl",
+        "unit": "Pkg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Rote Linsen": {
+        "shop": "Stef",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Röstis, gefroren": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Rührei": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Tetra",
+        "category": "",
+        "tags": ""
+    },
+    "Sahne": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Salami": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Salatsoße": {
+        "shop": "",
+        "unit": "l",
+        "comment": "was übrig ist, nicht in die Einkaufsliste\naufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Salatsoße Buttermilch-Zitrone": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Salatsoße Honig-Senf-Dressing": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Salatsoße Vinaigrette": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Salsa Dip": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Salz": {
+        "shop": "C&C",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Saure Sahne": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schaschlik-Spieße": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schattenmorellen im Glas": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Scheiblettenkäse": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schmand": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "oder Saure Sahne",
+        "category": "",
+        "tags": ""
+    },
+    "Schmelzkäse, laktosefrei": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schnittlauch": {
+        "shop": "C&C",
+        "unit": "Bund",
+        "comment": "Einzelbund ;-), alle hacken und eingefrieren",
+        "category": "",
+        "tags": ""
+    },
+    "Schokodrops": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schokolade": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "Tafel",
+        "category": "",
+        "tags": ""
+    },
+    "Schokolade, laktosefrei": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "dm",
+        "category": "",
+        "tags": ""
+    },
+    "Schokostreusel": {
+        "shop": "Stef",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schwarzbrot": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Schweinegeschnetzeltes 1cm Würfel": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Semmelbrösel": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Senf": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Sirup": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Sojasauce": {
+        "shop": "Stef",
+        "unit": "g",
+        "comment": "je nach Menge, dm oder von zuhause",
+        "category": "",
+        "tags": ""
+    },
+    "Sonnenblumenöl oder Rapsöl,\nraffiniert": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Sonnenblumenöl, kaltgepresst": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Spaghetti": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Spargelschäler": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Speisestärke": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "ACHTUNG: Mais-Basis",
+        "category": "",
+        "tags": ""
+    },
+    "Spiralnudeln": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Sprühsahne": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Stabmixer": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Streichwurst im Becher": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "Mett, Leberwurst, verschiedene Sorten",
+        "category": "",
+        "tags": ""
+    },
+    "Suppennudeln": {
+        "shop": "Aldi/Lidl",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Süßkartoffel": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Tee im Kanister": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Teebeutel": {
+        "shop": "Aldi/Lidl",
+        "unit": "Pkg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Tiefkühlblumenkohl": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Tiefkühlbrokkoli": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Tiefkühlerbsen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Toastbrot": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "einzelne Scheiben",
+        "category": "",
+        "tags": ""
+    },
+    "Tomaten": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Tomatenmark": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "in der Tube",
+        "category": "",
+        "tags": ""
+    },
+    "Traubensaft": {
+        "shop": "Aldi/Lidl",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Trockenhefe": {
+        "shop": "Aldi/Lidl",
+        "unit": "Stk",
+        "comment": "einzelne Tüte Päckchen (meist im 3x, 5x oder 10x\nPack)",
+        "category": "",
+        "tags": ""
+    },
+    "Tupperset": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Vanillesoße": {
+        "shop": "C&C",
+        "unit": "l",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Vanillezucker": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Vegane Sahne": {
+        "shop": "Stef",
+        "unit": "l",
+        "comment": "dm, möglichst auf Kokosbasis",
+        "category": "",
+        "tags": ""
+    },
+    "Veggie-Aufstrich": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "dm Bio",
+        "category": "",
+        "tags": ""
+    },
+    "Vollei": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Tetra",
+        "category": "",
+        "tags": ""
+    },
+    "Waage": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Wasser": {
+        "shop": "",
+        "unit": "l",
+        "comment": "aus der Leitung",
+        "category": "",
+        "tags": ""
+    },
+    "Wasser im Kanister": {
+        "shop": "",
+        "unit": "l",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Wassereis": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "weiße Riesen-Bohnen": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "Abtropfgewicht",
+        "category": "",
+        "tags": ""
+    },
+    "Weißkohl/Spitzkohl": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Wienerle": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "Paar",
+        "category": "",
+        "tags": ""
+    },
+    "Wraps, groß": {
+        "shop": "Stef",
+        "unit": "Stk",
+        "comment": "Netto",
+        "category": "",
+        "tags": ""
+    },
+    "Wurstreste": {
+        "shop": "",
+        "unit": "kg",
+        "comment": "nicht in die Einkaufsliste aufnehmen",
+        "category": "",
+        "tags": ""
+    },
+    "Zahnstocher": {
+        "shop": "Stef",
+        "unit": "Pkg",
+        "comment": "100 Stk pro Packung, dm",
+        "category": "",
+        "tags": ""
+    },
+    "Zimt": {
+        "shop": "Aldi/Lidl",
+        "unit": "g",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zitronen": {
+        "shop": "C&C",
+        "unit": "Stk",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zitronensaft": {
+        "shop": "C&C",
+        "unit": "ml",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zopf": {
+        "shop": "Lipp",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zucchini": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zucker": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Zwiebeln": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    },
+    "Äpfel": {
+        "shop": "C&C",
+        "unit": "kg",
+        "comment": "",
+        "category": "",
+        "tags": ""
+    }
+}
