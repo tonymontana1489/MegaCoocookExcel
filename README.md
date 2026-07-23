@@ -81,3 +81,25 @@ src/
 ## License
 
 MIT License
+
+## Dashboard starten
+
+```bash
+python -m megacoocookexcel.dashboard.launcher
+```
+
+Anschließend das Dashboard im Browser öffnen
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+## Aktueller Stand
+
+Version 0.4.0 verwendet eine REST-Architektur auf Basis von FastAPI.
+
+Die Kommunikation zwischen Browser und Python erfolgt vollständig über HTTP.
+
+Die DashboardBridge sowie die Import- und Repositorylogik bleiben unverändert.

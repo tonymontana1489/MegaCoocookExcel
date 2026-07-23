@@ -1,14 +1,36 @@
+from pathlib import Path
+import shutil
+import tempfile
+
+from fastapi import FastAPI, File, UploadFile
+from fastapi.staticfiles import StaticFiles
+
 from .bridge import DashboardBridge
 
-class DashboardAPI:
-    def __init__(self):
-        self.bridge = DashboardBridge()
+ROOT = Path(__file__).resolve().parents[3]
+WEB = ROOT / "web" / "dashboard"
 
-    def import_article_pdf(self, pdf_path):
-        return self.bridge.import_article_pdf(pdf_path)
+app = FastAPI(title="MegaCoocookExcel")
+bridge = DashboardBridge()
 
-    def load_articles(self):
-        return self.bridge.load_articles()
 
-    def save_articles(self, articles):
-        return self.bridge.save_articles(articles)
+@app.post("/api/import")
+async def import_pdf(pdf: UploadFile = File(...)):
+    suffix = Path(pdf.filename or "import.pdf").suffix
+
+    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+        shutil.copyfileobj(pdf.file, tmp)
+        tmp_path = Path(tmp.name)
+
+    try:
+        return bridge.import_article_pdf(str(tmp_path))
+    finally:
+        tmp_path.unlink(missing_ok=True)
+
+
+@app.get("/api/articles")
+def articles():
+    return bridge.load_articles()
+
+
+app.mount("/", StaticFiles(directory=WEB, html=True), name="dashboard")
