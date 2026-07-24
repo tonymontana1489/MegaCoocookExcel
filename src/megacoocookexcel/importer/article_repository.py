@@ -8,15 +8,21 @@ from megacoocookexcel.models import Article
 
 class ArticleRepository:
     """
-    Reads and writes the articles.json file.
+    Reads and writes the persistent articles database.
     """
 
-    def load(
-        self,
-        json_file: str | Path,
-    ) -> dict[str, Article]:
+    def _json_file(self) -> Path:
+        return (
+            Path(__file__).resolve().parents[2]
+            / "data"
+            / "articles.json"
+        )
 
-        json_file = Path(json_file)
+    # ----------------------------------------------------------
+
+    def load(self) -> dict[str, Article]:
+
+        json_file = self._json_file()
 
         if not json_file.exists():
             return {}
@@ -47,15 +53,14 @@ class ArticleRepository:
     def save(
         self,
         articles: list[Article],
-        json_file: str | Path,
     ) -> None:
 
-        json_file = Path(json_file)
+        json_file = self._json_file()
 
-        existing = self.load(json_file)
+        existing = self.load()
 
         #
-        # Merge existing categories into imported articles
+        # Merge existing user data into imported articles
         #
 
         for article in articles:
